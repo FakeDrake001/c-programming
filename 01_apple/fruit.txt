@@ -1,2 +1,4 @@
 apples
+<<<<<<< HEAD
 oranges
+orangez
