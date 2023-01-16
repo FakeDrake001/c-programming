@@ -1,2 +1,6 @@
 apples
+<<<<<<< HEAD
 orange1
+=======
+orangez
+>>>>>>> 94a51948acab20b8610edc9505ced386427d5b78
